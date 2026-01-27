@@ -44,3 +44,6 @@ This repository is prepared to provide practise qustions for dsa
 - [ ] 13. [Find Peak Element -2](https://leetcode.com/problems/find-a-peak-element-ii/description/)
 - [ ] 14. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
 - [ ] 15. [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)
+
+## Recursion + DP
+- [ ] 42. [Tower Of Hanoi](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)
