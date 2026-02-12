@@ -113,7 +113,6 @@ This repository is prepared to provide practise qustions for dsa
 - [ ] 102.[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/)
 - [ ] 103.[Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)
 - [ ] 104.[Count Distinct Elements In Every Window of Size K](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1)
-- [ ] 105.[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 - [ ] 105.[Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/description/)
 - [ ] 106.[Max of Mins for All Window Sizes](https://www.geeksforgeeks.org/dsa/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/)
 - [ ] 107.[Count Full Distinct Subarrays](https://www.geeksforgeeks.org/problems/equivalent-sub-arrays3731/1)
