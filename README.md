@@ -117,3 +117,14 @@ This repository is prepared to provide practise qustions for dsa
 - [ ] 106.[Max of Mins for All Window Sizes](https://www.geeksforgeeks.org/dsa/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/)
 - [ ] 107.[Count Full Distinct Subarrays](https://www.geeksforgeeks.org/problems/equivalent-sub-arrays3731/1)
 
+## Strings
+- [ ] 109.[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
+- [ ] 110.[k-Anagram](https://www.geeksforgeeks.org/problems/check-if-two-strings-are-k-anagrams-or-not/1)
+- [ ] 111.[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+- [ ] 112.[Isomorphic Strings](https://www.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1)
+- [ ] 113.[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/1849466953/)
+- [ ] 114.[Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/)
+- [ ] 115.[Rotate String](https://leetcode.com/problems/rotate-string/description/)
+- [ ] 116.[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
+- [ ] 117.[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+- [ ] 118.[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
