@@ -128,3 +128,17 @@ This repository is prepared to provide practise qustions for dsa
 - [ ] 116.[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
 - [ ] 117.[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [ ] 118.[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
+
+## TREE
+- [ ] 119.[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
+- [ ] 120.[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
+- [ ] 121.[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+- [ ] 122.[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+- [ ] 123.[Same Tree](https://leetcode.com/problems/same-tree/description/)
+- [ ] 124.[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
+- [ ] 125.[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)
+- [ ] 126.[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
+- [ ] 127.[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+- [ ] 128.[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/)
+- [ ] 129.[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
+- [ ] 130.[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/)
